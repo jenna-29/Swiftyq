@@ -1,0 +1,1 @@
+write-host -object "Hello world!"
